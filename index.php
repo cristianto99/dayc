@@ -13,3 +13,6 @@
     Ini buat belajar aja disini!
     <br><br>
     Kamu tau ga <a href="https://facebook.com/mas.dayc.96">Mas dayc</a> itu adalah admin dayc.
+    </center>
+  </body>
+</html>
